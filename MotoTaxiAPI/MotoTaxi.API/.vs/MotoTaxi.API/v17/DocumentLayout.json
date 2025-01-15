@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\controllers\\motoqueiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:controllers\\motoqueiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\dtos\\motoqueirosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\dtos\\motoqueirosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\requests\\addmotoqueirorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\requests\\addmotoqueirorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotoqueirosDTO.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "RelativeToolTip": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:06:06.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMotoqueiroRequest.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
+              "RelativeToolTip": "Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:04:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotoqueirosController.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Controllers\\MotoqueirosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MotoqueirosController.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Controllers\\MotoqueirosController.cs",
+              "RelativeToolTip": "Controllers\\MotoqueirosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:25:03.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
