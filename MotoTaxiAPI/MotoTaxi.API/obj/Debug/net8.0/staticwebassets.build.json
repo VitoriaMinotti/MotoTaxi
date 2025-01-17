@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vm80W55uLotNvPfB4snf86Is70jQ2vVEcJFAk8t0OBE=",
+  "Source": "MotoTaxi.API",
+  "BasePath": "_content/MotoTaxi.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

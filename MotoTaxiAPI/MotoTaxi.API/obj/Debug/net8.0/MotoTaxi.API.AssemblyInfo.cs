@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoTaxi.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4600af0dbe9f20b9100ec3a073b6231aea12f447")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoTaxi.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoTaxi.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

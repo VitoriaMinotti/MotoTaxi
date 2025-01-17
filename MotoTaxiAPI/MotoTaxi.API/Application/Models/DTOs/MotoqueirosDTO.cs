@@ -16,10 +16,7 @@
         public string EstadoCivil { get; set; } 
         public DateTime DataContratacao { get; set; }
 
-        public string PlacaMoto { get; set; } 
-        public string Renavam { get; set; }
-
-        public IFormFile Foto { get; set; } 
+        public List<MotosDTO> Motos { get; set; }
 
         public bool Ativo { get; set; }
         public DateTime? DataDesligamento { get; set; }

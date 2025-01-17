@@ -1,0 +1,12 @@
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\bin\Debug\net8.0\MotoTaxi.Domain.deps.json
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\bin\Debug\net8.0\MotoTaxi.Domain.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\bin\Debug\net8.0\MotoTaxi.Domain.pdb
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.AssemblyInfoInputs.cache
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.AssemblyInfo.cs
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.csproj.CoreCompileInputs.cache
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.sourcelink.json
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\refint\MotoTaxi.Domain.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\MotoTaxi.Domain.pdb
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Domain\obj\Debug\net8.0\ref\MotoTaxi.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MotoTaxi.API.props" />
+</Project>

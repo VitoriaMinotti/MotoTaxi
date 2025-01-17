@@ -1,0 +1,16 @@
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\bin\Debug\net8.0\MotoTaxi.Infrastructure.deps.json
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\bin\Debug\net8.0\MotoTaxi.Infrastructure.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\bin\Debug\net8.0\MotoTaxi.Infrastructure.pdb
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.AssemblyInfoInputs.cache
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.AssemblyInfo.cs
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.sourcelink.json
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\refint\MotoTaxi.Infrastructure.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.pdb
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\ref\MotoTaxi.Infrastructure.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\bin\Debug\net8.0\MotoTaxi.Domain.dll
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\bin\Debug\net8.0\MotoTaxi.Domain.pdb
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.Infrastructure.csproj.AssemblyReference.cache
+D:\dev\MotoTaxi\MotoTaxiAPI\MotoTaxi.Infrastructure\obj\Debug\net8.0\MotoTaxi.BD994961.Up2Date

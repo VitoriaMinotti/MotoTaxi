@@ -7,12 +7,55 @@
       "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:controllers\\motoqueiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\commands\\addmotoqueirocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\commands\\addmotoqueirocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\commands\\queries\\getmotoqueirosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\commands\\queries\\getmotoqueirosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\viewmodel\\paginateditemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\viewmodel\\paginateditemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\dtos\\motoqueiroresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\dtos\\motoqueiroresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}|..\\MotoTaxi.Domain\\MotoTaxi.Domain.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.domain\\models\\motoqueiroaggregate\\motoqueiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\dtos\\motoqueirosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\dtos\\motoqueirosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\requests\\addmotoqueirorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\requests\\addmotoqueirorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\models\\dtos\\motosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\models\\dtos\\motosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}|..\\MotoTaxi.Domain\\MotoTaxi.Domain.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.domain\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}|..\\MotoTaxi.Infrastructure\\MotoTaxi.Infrastructure.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.infrastructure\\repositories\\motoqueirorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}|..\\MotoTaxi.Infrastructure\\MotoTaxi.Infrastructure.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.api\\application\\commands\\addmotoqueirocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}|MotoTaxi.API.csproj|solutionrelative:application\\commands\\addmotoqueirocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}|..\\MotoTaxi.Infrastructure\\MotoTaxi.Infrastructure.csproj|d:\\dev\\mototaxi\\mototaxiapi\\mototaxi.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +65,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MotoqueirosDTO.cs",
-              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
-              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
-              "RelativeToolTip": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PaginatedItemsViewModel.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\ViewModel\\PaginatedItemsViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\ViewModel\\PaginatedItemsViewModel.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\ViewModel\\PaginatedItemsViewModel.cs",
+              "RelativeToolTip": "Application\\Models\\ViewModel\\PaginatedItemsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:06:06.2Z",
+              "WhenOpened": "2025-01-17T10:54:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoqueiroResult.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueiroResult.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\DTOs\\MotoqueiroResult.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueiroResult.cs",
+              "RelativeToolTip": "Application\\Models\\DTOs\\MotoqueiroResult.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:32:14.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetMotoqueirosQueryHandler.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\Queries\\GetMotoqueirosQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Queries\\GetMotoqueirosQueryHandler.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\Queries\\GetMotoqueirosQueryHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\Queries\\GetMotoqueirosQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:23:15.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T23:45:47.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddMotoqueiroRequest.cs",
-              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
-              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
-              "RelativeToolTip": "Application\\Models\\Requests\\AddMotoqueiroRequest.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:59:57.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motoqueiro.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Domain\\Models\\MotoqueiroAggregate\\Motoqueiro.cs",
+              "RelativeDocumentMoniker": "..\\MotoTaxi.Domain\\Models\\MotoqueiroAggregate\\Motoqueiro.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Domain\\Models\\MotoqueiroAggregate\\Motoqueiro.cs",
+              "RelativeToolTip": "..\\MotoTaxi.Domain\\Models\\MotoqueiroAggregate\\Motoqueiro.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA9wCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:54:59.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\MotoTaxi.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\MotoTaxi.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:36:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddMotoqueiroCommandHandler.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\AddMotoqueiroCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AddMotoqueiroCommandHandler.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\AddMotoqueiroCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\AddMotoqueiroCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:41:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotosDTO.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\DTOs\\MotosDTO.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotosDTO.cs",
+              "RelativeToolTip": "Application\\Models\\DTOs\\MotosDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:04:15.237Z",
+              "WhenOpened": "2025-01-16T11:47:17.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Domain\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\MotoTaxi.Domain\\Core\\IRepository.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Domain\\Core\\IRepository.cs",
+              "RelativeToolTip": "..\\MotoTaxi.Domain\\Core\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:47:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MotoqueiroRepository.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Repositories\\MotoqueiroRepository.cs",
+              "RelativeDocumentMoniker": "..\\MotoTaxi.Infrastructure\\Repositories\\MotoqueiroRepository.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Repositories\\MotoqueiroRepository.cs",
+              "RelativeToolTip": "..\\MotoTaxi.Infrastructure\\Repositories\\MotoqueiroRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:30:49.893Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +218,48 @@
               "RelativeDocumentMoniker": "Controllers\\MotoqueirosController.cs",
               "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Controllers\\MotoqueirosController.cs",
               "RelativeToolTip": "Controllers\\MotoqueirosController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T12:25:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "..\\MotoTaxi.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "..\\MotoTaxi.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:41:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMotoqueiroCommand.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\AddMotoqueiroCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AddMotoqueiroCommand.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Commands\\AddMotoqueiroCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\AddMotoqueiroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:53:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotoqueirosDTO.cs",
+              "DocumentMoniker": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "ToolTip": "D:\\dev\\MotoTaxi\\MotoTaxiAPI\\MotoTaxi.API\\Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "RelativeToolTip": "Application\\Models\\DTOs\\MotoqueirosDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:06:06.2Z",
               "EditorCaption": ""
             }
           ]
