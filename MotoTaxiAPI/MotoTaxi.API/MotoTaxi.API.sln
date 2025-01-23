@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoTaxi.API", "MotoTaxi.API.csproj", "{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}"
+	ProjectSection(ProjectDependencies) = postProject
+		{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91} = {22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoTaxi.Domain", "..\MotoTaxi.Domain\MotoTaxi.Domain.csproj", "{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoTaxi.Infrastructure", "..\MotoTaxi.Infrastructure\MotoTaxi.Infrastructure.csproj", "{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51EB6EC-8FEB-4BBE-BD08-7D4027932995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DCD7C2-F8B9-400B-870D-45BD94914BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EABB9E-52A0-40ED-B5DF-864B1D5D8E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
