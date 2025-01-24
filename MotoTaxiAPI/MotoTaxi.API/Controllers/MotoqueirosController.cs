@@ -1,6 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using MotoTaxi.API.Application.Commands;
+using MotoTaxi.API.Application.Commands.MotoqueirosCommands;
 using MotoTaxi.API.Application.Commands.Queries;
 using MotoTaxi.API.Application.Models.Requests.MotoqueirosRequest;
 
@@ -23,9 +23,12 @@ namespace MotoTaxi.API.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> Add([FromBody] AddMotoqueiroRequest request)
         {
+            var endereco = new AddEnderecoRequest(request.Endereco.Rua, request.Endereco.Numero, request.Endereco.Bairro
+                , request.Endereco.Cidade, request.Endereco.Estado, request.Endereco.CEP);
+
             var cmd = new AddMotoqueiroCommand(request.Nome, request.Apelido, request.DataNascimento, request.Telefone,
                 request.TelefoneEmergencia, request.Rg, request.Cpf, request.DataVencimentoCnh, request.EstadoCivil,
-                request.DataContratacao, request.Ativo, request.DataDesligamento);
+                request.DataContratacao, request.Ativo, request.DataDesligamento, endereco);
             var result = await _mediator.Send(cmd);
 
             if(result == false) 

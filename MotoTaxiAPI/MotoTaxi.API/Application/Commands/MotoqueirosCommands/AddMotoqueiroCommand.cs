@@ -1,13 +1,11 @@
 ﻿using MediatR;
-using MotoTaxi.API.Application.Models.DTOs;
 using MotoTaxi.API.Application.Models.Requests.MotoqueirosRequest;
-using MotoTaxi.Domain.Models.MotoqueiroAggregate;
 
 namespace MotoTaxi.API.Application.Commands.MotoqueirosCommands
 {
     public class AddMotoqueiroCommand(string nome, string apelido, DateTime dataNascimento,
         string telefone, string telefoneEmergencia, string rg, string cpf, DateTime dataVencimentoCnh,
-        string estadoCivil, DateTime dataContratacao, bool ativo, DateTime? dataDesligamento, EnderecoRequest endereco) : IRequest<bool>
+        string estadoCivil, DateTime dataContratacao, bool ativo, DateTime? dataDesligamento, AddEnderecoRequest endereco) : IRequest<bool>
     {
         public string Nome { get; set; } = nome;
         public string Apelido { get; set; } = apelido;
@@ -21,6 +19,6 @@ namespace MotoTaxi.API.Application.Commands.MotoqueirosCommands
         public DateTime DataContratacao { get; set; } = dataContratacao;
         public bool Ativo { get; set; } = ativo;
         public DateTime? DataDesligamento { get; set; } = dataDesligamento;
-        public EnderecoRequest Endereco { get; set; } = endereco;
+        public AddEnderecoRequest Endereco { get; set; } = endereco;
     }
 }

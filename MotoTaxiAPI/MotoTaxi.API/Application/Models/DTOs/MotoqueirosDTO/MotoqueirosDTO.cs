@@ -12,7 +12,6 @@
         public DateTime DataVencimentoCnh { get; set; }
         public string EstadoCivil { get; set; }
         public DateTime DataContratacao { get; set; }
-        public List<MotosDTO> Motos { get; set; }
         public bool Ativo { get; set; }
         public DateTime? DataDesligamento { get; set; }
     }

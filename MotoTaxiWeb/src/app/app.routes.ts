@@ -14,8 +14,8 @@ export const routes: Routes = [
     },
   },
   {
-    path: 'home',
+    path: 'inicio',
     component: HomeComponent,
-    data: { breadcrumb: 'Home' },
+    data: { breadcrumb: 'Inicio' },
   },
 ];
