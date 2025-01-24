@@ -14,8 +14,7 @@ namespace MotoTaxi.Infrastructure.Repositories
         public override Motoqueiro GetById(Guid id)
         {
             return _entity
-                .Include( x  => x.Id )
-                .Include( x => x.Nome )
+                .Include( x  => x.Endereco )
                 .FirstOrDefault(x => x.Id == id);
 
         }

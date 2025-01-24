@@ -2,36 +2,37 @@
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using MotoTaxi.API.Application.Infrastructure;
-using MotoTaxi.API.Application.Models.DTOs;
+using MotoTaxi.API.Application.Models.DTOs.Motoqueiros;
+using MotoTaxi.Domain.Models.MotoqueiroAggregate;
 using MotoTaxi.Infrastructure.Data;
 
 namespace MotoTaxi.API.Application.Commands.Queries
 {
-    public class GetMotoqueirosQueryHandler : IRequestHandler<GetMotoqueirosQuery, IEnumerable<MotoqueiroResult>>
+    public class GetMotoqueirosQueryHandler(IMotoqueiroRepository motoqueiroRepository) : IRequestHandler<GetMotoqueirosQuery, IEnumerable<MotoqueiroResult>>
     {
-        //private readonly SqlConnectionProvider _sqlConnectionProvider = sqlConnectionProvider ?? throw new ArgumentNullException(nameof(sqlConnectionProvider));
-
-        private readonly ApplicationDataContext _context;
-
-        public GetMotoqueirosQueryHandler(ApplicationDataContext context)
-        {
-            _context = context ?? throw new ArgumentNullException(nameof(context));
-        }
+        private readonly IMotoqueiroRepository _motoqueiroRepo = motoqueiroRepository ?? throw new Exception(nameof(motoqueiroRepository));
 
         public async Task<IEnumerable<MotoqueiroResult>> Handle(GetMotoqueirosQuery request, CancellationToken cancellationToken)
         {
-            var motoqueiros = await _context.Motoqueiros
-                .AsNoTracking() 
-                .ToListAsync(cancellationToken);
+            var motoqueiros = _motoqueiroRepo.GetAll();
 
             return motoqueiros.Select(x => new MotoqueiroResult
             {
                 Nome = x.Nome,
                 Apelido = x.Apelido,
+                DataNascimento = x.DataNascimento,
+                Telefone = x.Telefone,
+                TelefoneEmergencia = x.TelefoneEmergencia,
+                Rg = x.Rg,
+                Cpf = x.Cpf,
+                DataVencimentoCnh = x.DataVencimentoCnh,
+                EstadoCivil = x.EstadoCivil,
+                DataContratacao = x.DataContratacao,
+                Ativo = x.Ativo,
+                DataDesligamento = x.DataDesligamento
             });
         }
     }
-
     public class GetMotoqueirosQuery : IRequest<IEnumerable<MotoqueiroResult>>
     {
     }

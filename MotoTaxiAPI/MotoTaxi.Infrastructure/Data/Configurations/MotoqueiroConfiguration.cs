@@ -31,10 +31,6 @@ namespace MotoTaxi.Infrastructure.Data.Configurations
             builder.Property(e => e.TelefoneEmergencia)
                 .HasMaxLength(20);
 
-            builder.Property(e => e.Endereco)
-                .IsRequired()
-                .HasMaxLength(250);
-
             builder.Property(e => e.Rg)
                 .HasMaxLength(20);
 

@@ -2,9 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MotoTaxi.API.Application.Commands;
 using MotoTaxi.API.Application.Commands.Queries;
-using MotoTaxi.API.Application.Models.DTOs;
-using MotoTaxi.API.Application.Models.Requests;
-using MotoTaxi.API.Application.Models.ViewModel;
+using MotoTaxi.API.Application.Models.Requests.MotoqueirosRequest;
 
 namespace MotoTaxi.API.Controllers
 {
@@ -26,7 +24,7 @@ namespace MotoTaxi.API.Controllers
         public async Task<IActionResult> Add([FromBody] AddMotoqueiroRequest request)
         {
             var cmd = new AddMotoqueiroCommand(request.Nome, request.Apelido, request.DataNascimento, request.Telefone,
-                request.TelefoneEmergencia, request.Endereco, request.Rg, request.Cpf, request.DataVencimentoCnh, request.EstadoCivil,
+                request.TelefoneEmergencia, request.Rg, request.Cpf, request.DataVencimentoCnh, request.EstadoCivil,
                 request.DataContratacao, request.Ativo, request.DataDesligamento);
             var result = await _mediator.Send(cmd);
 
