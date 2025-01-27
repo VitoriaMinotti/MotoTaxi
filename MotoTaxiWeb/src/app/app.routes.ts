@@ -17,5 +17,8 @@ export const routes: Routes = [
     path: 'inicio',
     component: HomeComponent,
     data: { breadcrumb: 'Inicio' },
+    resolve: {
+      motoqueiros: () => inject(MotoqueirosService).getAll(),
+    },
   },
 ];

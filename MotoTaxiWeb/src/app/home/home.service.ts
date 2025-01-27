@@ -1,16 +1,16 @@
-import { Injectable } from "@angular/core";
-import { BehaviorSubject, catchError, Observable, of, tap } from "rxjs";
-import { MotoqueirosDTO } from "../models/dtos/motoqueiros.dtos.interface";
 import { HttpClient } from "@angular/common/http";
-import { MotoqueiroEndpoints } from "./motoqueiro.endpoint";
-import { MotoqueirosResult } from "../models/request/motoqueiros-result.interface";
+import { BehaviorSubject, Observable, tap, catchError, of } from "rxjs";
 import { ApplicationSettings } from "../api.url";
+import { MotoqueirosDTO } from "../models/dtos/motoqueiros.dtos.interface";
+import { MotoqueirosResult } from "../models/request/motoqueiros-result.interface";
+import { MotoqueiroEndpoints } from "../motoqueiros/motoqueiro.endpoint";
+import { Injectable } from "@angular/core";
 
 @Injectable({
   providedIn: 'root'
 })
 
-export class MotoqueirosService {
+export class HomeService {
 
     private _motoqueiro: BehaviorSubject<MotoqueirosResult[]> = new BehaviorSubject<MotoqueirosResult[]>([]);
 
@@ -34,13 +34,5 @@ export class MotoqueirosService {
     );
   }
 
-  addMotoqueiro(motoqueiro: MotoqueirosDTO): Observable<MotoqueirosDTO> {
-    return this._http.post<MotoqueirosDTO>(MotoqueiroEndpoints.endpoints.create(ApplicationSettings.URL), motoqueiro).pipe(
-      tap((response) => {
-        const current = this._motoqueiro.value;
-        this._motoqueiro.next([...current, response]);
-      })
-    );
-  }
 
 }

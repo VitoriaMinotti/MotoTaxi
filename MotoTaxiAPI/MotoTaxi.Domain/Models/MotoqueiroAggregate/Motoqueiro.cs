@@ -6,7 +6,7 @@ namespace MotoTaxi.Domain.Models.MotoqueiroAggregate
     {
         public Motoqueiro(string nome, string apelido, DateTime dataNascimento,
         string telefone, string telefoneEmergencia, string rg, string cpf, DateTime dataVencimentoCnh,
-        string estadoCivil, DateTime dataContratacao, bool ativo, DateTime? dataDesligamento, Endereco enderecoMotoqueiro)
+        string estadoCivil, DateTime dataContratacao, bool ativo, DateTime? dataDesligamento)
         {
             Id = Guid.NewGuid();
             Nome = nome;
@@ -21,7 +21,6 @@ namespace MotoTaxi.Domain.Models.MotoqueiroAggregate
             DataContratacao = dataContratacao;
             Ativo = ativo;
             DataDesligamento = dataDesligamento;
-            Endereco = enderecoMotoqueiro;
         }
 
         public string Nome { get; set; }
@@ -31,7 +30,6 @@ namespace MotoTaxi.Domain.Models.MotoqueiroAggregate
         public string TelefoneEmergencia { get; set; }
         public string Rg { get; set; }
         public string Cpf { get; set; }
-        public Endereco Endereco { get; set; }
         public DateTime DataVencimentoCnh { get; set; }
         public string EstadoCivil { get; set; }
         public DateTime DataContratacao { get; set; }
